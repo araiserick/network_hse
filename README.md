@@ -9,4 +9,6 @@ Wireshark](./Lab3/README.md)
 
 [4. Протокол DHCP. Процесс назначения IP-адресов](./Lab4/README.md)
 
-[5.Визуализация Интернета. Утилиты ping и traceroute](./Lab5/README.md)
+[5. Визуализация Интернета. Утилиты ping и traceroute](./Lab5/README.md)
+
+[6.1. Расчет IPv4-подсетей](./Lab6.1/README.md)
