@@ -12,3 +12,5 @@ Wireshark](./Lab3/README.md)
 [5. Визуализация Интернета. Утилиты ping и traceroute](./Lab5/README.md)
 
 [6.1. Расчет IPv4-подсетей](./Lab6.1/README.md)
+
+[6.2 Создание адресного плана](./Lab6.2/README.md)
