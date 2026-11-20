@@ -33,7 +33,7 @@ sudo tcpdump -i <имя_интерфейса> -vv -c 200 -n -e
 
 MAC адрес компьютера
 
-![alt text](image-3.png)
+![alt text](image-12.png)
 
 MAC адрес маршрутизатора
 
